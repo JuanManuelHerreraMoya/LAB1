@@ -29,6 +29,8 @@
 
  ## Curso GitBranching
 
-    ![](parte1.png)
-
-    ![](parte2.png)
+   ![](parte1.png)
+   
+   ![](parte2.png)
+    
+   
